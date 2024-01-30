@@ -1,2 +1,2 @@
-# sesua
+# SESUA
 team SESUA repo
